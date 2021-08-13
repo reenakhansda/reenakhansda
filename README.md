@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @reenakhansda
-- 👀 I’m love working with data.
+- 👀 I love working with data.
 - 🌱 I’m currently learning data analytics.
 
 <!---
