@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @reenakhansda
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning data analytics
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m love working with data.
+- 🌱 I’m currently learning data analytics.
 
 <!---
 reenakhansda/reenakhansda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
